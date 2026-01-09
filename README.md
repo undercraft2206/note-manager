@@ -2,7 +2,7 @@
 
 for install with gcc: 
 
-git clone
+git clone https://github.com/undercraft2206/note-manager.git
 
 
 cd note-manager
